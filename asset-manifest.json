@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sravya01231/static/css/main.4b6235d3.css",
+    "main.js": "/sravya01231/static/js/main.2c6eb2f9.js",
+    "static/js/787.350caba3.chunk.js": "/sravya01231/static/js/787.350caba3.chunk.js",
+    "index.html": "/sravya01231/index.html",
+    "main.4b6235d3.css.map": "/sravya01231/static/css/main.4b6235d3.css.map",
+    "main.2c6eb2f9.js.map": "/sravya01231/static/js/main.2c6eb2f9.js.map",
+    "787.350caba3.chunk.js.map": "/sravya01231/static/js/787.350caba3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b6235d3.css",
+    "static/js/main.2c6eb2f9.js"
+  ]
+}
